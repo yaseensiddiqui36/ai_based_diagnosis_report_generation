@@ -1,0 +1,20 @@
+ignore_content = """
+# Ignore model file
+
+# Ignore everything inside models/ folder
+models/
+input/PNG/
+
+# Common Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Ignore virtual environments (if any)
+.env/
+venv/
+"""
+with open('.gitignore', 'w') as f:
+    f.write(ignore_content)

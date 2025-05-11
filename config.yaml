@@ -1,0 +1,10 @@
+img_extn: .jpg
+mask_extn: .png
+epochs: 1
+im_width: 600
+im_height: 450
+model_path: models/model.pth
+log_path: models/logs/logs.csv
+image_path: input/PNG/sample_original
+mask_path: input/PNG/sample_ground_truth
+output_path: prediction.png
