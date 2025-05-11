@@ -119,7 +119,9 @@ input/PNG/
 
 ## 📬 Contact
 
-For questions or contributions, feel free to raise an issue or contact the yaseenah@buffalo.edu
-
+For questions or contributions, feel free to raise an issue or contact the maintainers:
+1. yaseenah@buffalo.edu
+2. mahmood7@buffalo.edu
+3. kruthiks@buffalo.edu
 ---
 
